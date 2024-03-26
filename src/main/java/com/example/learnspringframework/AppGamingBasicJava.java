@@ -11,7 +11,7 @@ public class AppGamingBasicJava {
 //        var marioGame=new MarioGame();
 //        var game=new Pacman();
         var gameRunner=new GameRunner(game);
-        gameRunner.run();
+
 
     }
 }
